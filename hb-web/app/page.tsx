@@ -25,7 +25,7 @@ const PROJECTS: Project[] = [
     id: 'p2',
     title: 'Embroidered Shawl',
     desc: 'Elegant evening shawl with subtle metallic thread.',
-    img: '/images/projects/sample-project-2.jpg',
+    img: '/images/sh.jpg',
   },
   {
     id: 'p3',
@@ -37,7 +37,7 @@ const PROJECTS: Project[] = [
     id: 'p4',
     title: 'Kids Wear',
     desc: 'Vibrant and comfortable embroidered outfits for children.',
-    img: '/images/projects/sample-project-4.jpg',
+    img: '/images/k.jpg',
   },
 ];
 
