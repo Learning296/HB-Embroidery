@@ -660,7 +660,7 @@ const PROJECTS: Project[] = [
     id: 'p1',
     title: 'Sindhi Dresses',
     desc: 'Traditional Dresses pattern with fine hand-stitching.',
-    img: '/images/1.jpg',
+    img: '/images/black.png',
   },
   {
     id: 'p2',
