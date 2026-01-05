@@ -14,38 +14,45 @@ type Product = {
   salePrice: number;
 };
 
+
+
+// 7k sindhi dress
+// 5k shawl 
+// 8k aplic 
+// 2k kids wear
+
 const PRODUCTS: Product[] = [
   {
     id: 'p1',
     title: 'Sindhi Dresses',
     desc: 'Traditional Dresses pattern with fine hand-stitching.',
     img: '/images/black.png',
-    price: 5000,
-    salePrice: 2500,
+    price: 7000,
+    salePrice: 3500,
   },
   {
     id: 'p2',
     title: 'Embroidered Shawl',
     desc: 'Elegant evening shawl with subtle metallic thread.',
     img: '/images/sh.jpg',
-    price: 4400,
-    salePrice: 2200,
+    price: 5000,
+    salePrice: 2500,
   },
   {
     id: 'p3',
     title: 'Applic Work',
     desc: 'Bold and aesthetic colorful applic work for festive occasions.',
     img: '/images/p_2.png',
-    price: 4800,
-    salePrice: 2400,
+    price: 8000,
+    salePrice: 4000,
   },
   {
     id: 'p4',
     title: 'Kids Wear',
     desc: 'Vibrant and comfortable embroidered outfits for children.',
     img: '/images/k.jpg',
-    price: 4000,
-    salePrice: 2000,
+    price: 2000,
+    salePrice: 1000,
   },
 ];
 
